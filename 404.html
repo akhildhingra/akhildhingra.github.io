@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Akhil Dhingra">
+    <meta name="description" content="Internet weblog of Akhil Dhingra.">
+    <meta name="generator" content="Hugo 0.69.2" />
+
+    
+    <title>404 Page not found &middot; @’s Akhil Dhingra</title>
+
+    <link rel="stylesheet" href="https://akhildhingra.github.io/css/weblog.css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.14/css/lightgallery.min.css" type="text/css" />
+    
+
+
+    
+	<link href="https://akhildhingra.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Akhil Dhingra" />
+	
+  </head>
+  <body class="site">
+
+<header>
+  <nav>
+    <h1><a href="/">@</a>’s Akhil Dhingra.</h1>
+    <div class="menu">
+		
+			<ul>
+				
+				<li>
+					<a href="/posts/">Post Archive</a>
+				</li>
+				
+				<li>
+					<a href="/talks/">talks</a>
+				</li>
+				
+				<li><a href="/about">About</a></li>
+			</ul>
+      	
+    </div>
+  </nav>
+</header>
+
+
+<main class="content">
+  <article class="post">
+    404. Not Found. Try again.
+Please write an email to akhil.medium@gmail.com if required.
+
+
+
+  </article>
+</main>
+
+<footer>
+  <div class="footer_text">
+      <div>
+        <h3>Hi, <a href="/about">I'm Akhil</a></h3>
+        <p>
+          8+ years of Data Analysis and Product Management experience. Has an MBA degree in finance. Has worked with likes of Groupon, VWO, Zalando (Berlin) on the Data Lake and Machine Learning platforms.
+        </p>
+      </div>
+      
+      <div>
+          <h3><a href="https://www.flickr.com/photos/188681015@N02/">Photo Stream</a></h3>
+          <div id="photos"></div>
+        </div>
+      </div>
+      
+  </div>
+
+  
+    <div class="footer_copyright">
+      &copy; 2020 <a href="/about">Akhil Dhingra</a>
+       - Made in Berlin
+    </div>
+  
+</footer>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.14/js/lightgallery-all.min.js" charset="utf-8"></script>
+    <script src="/js/weblog.js" charset="utf-8"></script>
+    
+
+    <script type="text/javascript">
+
+  
+  $(function() {
+    
+    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=188681015@N02&format=json&jsoncallback=?", function(data) {
+      iweblog.application.displayImages(data, 8);
+    });
+  });
+
+</script>
+
+    
+  </body>
+</html>
+

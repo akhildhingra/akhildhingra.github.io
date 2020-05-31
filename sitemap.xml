@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://akhildhingra.github.io/</loc>
+    <lastmod>2020-05-31T12:21:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akhildhingra.github.io/talks/databricks/</loc>
+    <lastmod>2020-05-31T12:21:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akhildhingra.github.io/talks/</loc>
+    <lastmod>2020-05-31T12:21:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akhildhingra.github.io/talks/productcamp/</loc>
+    <lastmod>2020-05-31T12:13:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akhildhingra.github.io/posts/my-new-post/</loc>
+    <lastmod>2020-05-31T11:29:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akhildhingra.github.io/posts/</loc>
+    <lastmod>2020-05-31T11:29:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akhildhingra.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://akhildhingra.github.io/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://akhildhingra.github.io/tags/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Akhil Dhingra</title>
+    <link>https://akhildhingra.github.io/talks/</link>
+    <description>Recent content in Talks on Akhil Dhingra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2020 12:21:12 +0200</lastBuildDate>
+    
+	<atom:link href="https://akhildhingra.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Databricks</title>
+      <link>https://akhildhingra.github.io/talks/databricks/</link>
+      <pubDate>Sun, 31 May 2020 12:21:12 +0200</pubDate>
+      
+      <guid>https://akhildhingra.github.io/talks/databricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productcamp</title>
+      <link>https://akhildhingra.github.io/talks/productcamp/</link>
+      <pubDate>Sun, 31 May 2020 12:13:06 +0200</pubDate>
+      
+      <guid>https://akhildhingra.github.io/talks/productcamp/</guid>
+      <description>Solving an internal customer need often requires PMs to choose between Build vs Buy. For platform centric offerings in enterprises like Data Transformation / Machine Learning, there is a third option – Vendor Managed. Within large microservices footprint and complex org structures, much of the initial procurement and product discovery happens with key stakeholders and limited beta users. This somewhat reduces feasibility risk, but increases value and usability risk for end users.</description>
+    </item>
+    
+  </channel>
+</rss>
