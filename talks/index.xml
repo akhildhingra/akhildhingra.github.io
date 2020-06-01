@@ -6,18 +6,20 @@
     <description>Recent content in Talks on Akhil Dhingra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 12:21:12 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 10:29:43 +0200</lastBuildDate>
     
 	<atom:link href="https://akhildhingra.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Databricks</title>
-      <link>https://akhildhingra.github.io/talks/databricks/</link>
-      <pubDate>Sun, 31 May 2020 12:21:12 +0200</pubDate>
+      <title>Spark AI Databricks</title>
+      <link>https://akhildhingra.github.io/talks/spark-ai-databricks/</link>
+      <pubDate>Mon, 01 Jun 2020 10:29:43 +0200</pubDate>
       
-      <guid>https://akhildhingra.github.io/talks/databricks/</guid>
-      <description></description>
+      <guid>https://akhildhingra.github.io/talks/spark-ai-databricks/</guid>
+      <description>I gave the talk at Spark-AI 2019 edition. Excerpt from my session in the enterprise segment:
+Zalando SE is Europe&amp;rsquo;s leading online fashion platform and connects customers, brands and partners. With millions of visitors each month, we have petabytes of purchase, click-stream, product and other data in our data lake. This data is crucial to powering insights on shopper behavior and driving an AI-first strategy to improve site engagement.
+Over 7 months ago, Zalando adopted Apache Spark, Delta Lake and Databricks as its de-facto computation platform for analytics and machine learning.</description>
     </item>
     
     <item>
@@ -26,7 +28,8 @@
       <pubDate>Sun, 31 May 2020 12:13:06 +0200</pubDate>
       
       <guid>https://akhildhingra.github.io/talks/productcamp/</guid>
-      <description>Solving an internal customer need often requires PMs to choose between Build vs Buy. For platform centric offerings in enterprises like Data Transformation / Machine Learning, there is a third option – Vendor Managed. Within large microservices footprint and complex org structures, much of the initial procurement and product discovery happens with key stakeholders and limited beta users. This somewhat reduces feasibility risk, but increases value and usability risk for end users.</description>
+      <description>Please join me at Product Camp / Bar Camp (2nd Sep 2020, Europe) for my talk about Build vs Buy vs Vendor Managed:
+Solving an internal customer need often requires PMs to choose between Build vs Buy. For platform centric offerings in enterprises like Data Transformation / Machine Learning, there is a third option – Vendor Managed. Within large microservices footprint and complex org structures, much of the initial procurement and product discovery happens with key stakeholders and limited beta users.</description>
     </item>
     
   </channel>

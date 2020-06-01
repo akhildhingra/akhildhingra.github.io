@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Akhil Dhingra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 11:29:21 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 10:26:30 +0200</lastBuildDate>
     
 	<atom:link href="https://akhildhingra.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building an AI-Powered Retail Experience with Delta Lake, Spark, and Databricks</title>
+      <link>https://akhildhingra.github.io/posts/databricks/</link>
+      <pubDate>Mon, 01 Jun 2020 10:26:30 +0200</pubDate>
+      
+      <guid>https://akhildhingra.github.io/posts/databricks/</guid>
+      <description>Excerpt from my session at Spark-AI connference at Amsterdam 2019.
+Zalando SE is Europe&amp;rsquo;s leading online fashion platform and connects customers, brands and partners. With millions of visitors each month, we have petabytes of purchase, click-stream, product and other data in our data lake. This data is crucial to powering insights on shopper behavior and driving an AI-first strategy to improve site engagement.
+Over 7 months ago, Zalando adopted Apache Spark, Delta Lake and Databricks as its de-facto computation platform for analytics and machine learning.</description>
+    </item>
     
     <item>
       <title>Build Vs Buy vs Vendor Managed | My Talk at Product Camp</title>
