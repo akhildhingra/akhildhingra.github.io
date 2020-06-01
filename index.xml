@@ -26,21 +26,6 @@
     
       
       <item>
-        <title>Building an AI-Powered Retail Experience with Delta Lake, Spark, and Databricks</title>
-        <link>https://akhildhingra.github.io/posts/databricks/</link>
-        <pubDate>Mon, 01 Jun 2020 10:26:30 +0200</pubDate>
-        <author>Akhil Dhingra</author>
-        <guid>https://akhildhingra.github.io/posts/databricks/</guid>
-        <description>&lt;p&gt;Excerpt from my session at Spark-AI connference at Amsterdam 2019.&lt;/p&gt;
-&lt;p&gt;Zalando SE is Europe&amp;rsquo;s leading online fashion platform and connects customers, brands and partners. With millions of visitors each month, we have petabytes of purchase, click-stream, product and other data in our data lake. This data is crucial to powering insights on shopper behavior and driving an AI-first strategy to improve site engagement.&lt;/p&gt;
-&lt;p&gt;Over 7 months ago, Zalando adopted Apache Spark, Delta Lake and Databricks as its de-facto computation platform for analytics and machine learning. During this period, we onboarded well over 50 internal teams ranging from BI teams, with no knowledge of Spark or big data running ETL pipelines to AI/ML teams already using EMR and Spark for heavy model training. Provided the spectrum of varied business problems they were trying to solve, we worked with each team individually, understanding their use cases, helping them validate assumptions, developing working code and taking them to production. In this talk we will share best practices for building a unified data and analytics architecture on Databricks, lessons learned rolling it out across the organization and provide a deep dive on AI &amp;amp; Analytics use cases in the fashion ecommerce space.&lt;/p&gt;
-&lt;p&gt;You can find the recording at: &lt;a href=&#34;https://databricks.com/session_eu19/building-an-ai-powered-retail-experience-with-delta-lake-spark-and-databricks&#34;&gt;https://databricks.com/session_eu19/building-an-ai-powered-retail-experience-with-delta-lake-spark-and-databricks&lt;/a&gt;&lt;/p&gt;
-</description>
-      </item>
-      
-    
-      
-      <item>
         <title>Productcamp</title>
         <link>https://akhildhingra.github.io/talks/productcamp/</link>
         <pubDate>Sun, 31 May 2020 12:13:06 +0200</pubDate>
@@ -64,6 +49,21 @@
         <description>&lt;p&gt;Solving an internal customer need often requires PMs to choose between Build vs Buy. For platform centric offerings in enterprises like Data Transformation / Machine Learning, there is a third option – Vendor Managed. Within large microservices footprint and complex org structures, much of the initial procurement and product discovery happens with key stakeholders and limited beta users. This somewhat reduces feasibility risk, but increases value and usability risk for end users.  My presentation is about 2 parts – how to initiate an internal product marketing process / CoE for continuous product discovery + fit and how to build an ecosystem while maintaining the need for failing fast / reversible decisions in such situations.&lt;/p&gt;
 &lt;p&gt;Please join me at Product Camp / Bar Camp (Europe) for details about this journey.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://productcamp.pl/presentation/akhil-dhingra/&#34;&gt;https://productcamp.pl/presentation/akhil-dhingra/&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Building an AI-Powered Retail Experience with Delta Lake, Spark, and Databricks</title>
+        <link>https://akhildhingra.github.io/posts/databricks/</link>
+        <pubDate>Thu, 17 Oct 2019 10:26:30 +0200</pubDate>
+        <author>Akhil Dhingra</author>
+        <guid>https://akhildhingra.github.io/posts/databricks/</guid>
+        <description>&lt;p&gt;Excerpt from my session at Spark-AI connference at Amsterdam 2019.&lt;/p&gt;
+&lt;p&gt;Zalando SE is Europe&amp;rsquo;s leading online fashion platform and connects customers, brands and partners. With millions of visitors each month, we have petabytes of purchase, click-stream, product and other data in our data lake. This data is crucial to powering insights on shopper behavior and driving an AI-first strategy to improve site engagement.&lt;/p&gt;
+&lt;p&gt;Over 7 months ago, Zalando adopted Apache Spark, Delta Lake and Databricks as its de-facto computation platform for analytics and machine learning. During this period, we onboarded well over 50 internal teams ranging from BI teams, with no knowledge of Spark or big data running ETL pipelines to AI/ML teams already using EMR and Spark for heavy model training. Provided the spectrum of varied business problems they were trying to solve, we worked with each team individually, understanding their use cases, helping them validate assumptions, developing working code and taking them to production. In this talk we will share best practices for building a unified data and analytics architecture on Databricks, lessons learned rolling it out across the organization and provide a deep dive on AI &amp;amp; Analytics use cases in the fashion ecommerce space.&lt;/p&gt;
+&lt;p&gt;You can find the recording at: &lt;a href=&#34;https://databricks.com/session_eu19/building-an-ai-powered-retail-experience-with-delta-lake-spark-and-databricks&#34;&gt;https://databricks.com/session_eu19/building-an-ai-powered-retail-experience-with-delta-lake-spark-and-databricks&lt;/a&gt;&lt;/p&gt;
 </description>
       </item>
       
